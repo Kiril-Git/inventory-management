@@ -1,0 +1,14 @@
+{
+  "bookNotFound": "Buch nicht gefunden",
+  "deletedSuccessfully": "wurde erfolgreich gelöscht",
+  "updatedSuccessfully": "wurde erfolgreich aktualisiert",
+  "requireBookName": "Bitte geben Sie den Buchtitel ein",
+  "bookNameLengthValidation": "Der Buchtitel muss zwischen 5 und 50 Zeichen lang sein",
+  "requirePrice": "Bitte geben Sie den Preis ein",
+  "priceScopeValidation": "Der Preis muss zwischen 1 und 200 Dollar liegen",
+  "requireCountInStock": "Bitte geben Sie den Lagerbestand ein",
+  "countInStockValidation": "Der Lagerbestand muss eine ganze Zahl zwischen 1 und 255 sein",
+  "requireURL": "Bitte geben Sie die URL ein",
+  "validationURL": "Die Bild-URL muss gültig sein. Bitte versuchen Sie es erneut",
+  "validationID": "Ungültige Buch-ID"
+}

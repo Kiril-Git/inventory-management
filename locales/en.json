@@ -1,0 +1,16 @@
+{
+  "bookNotFound": "Book not found",
+  "deletedSuccessfully": "deleted successfully",
+  "updatedSuccessfully": "updated successfully",
+  "requireBookName": "Please enter the book name",
+  "bookNameLengthValidation": "Book name must be between 5 and 50 characters",
+  "requirePrice": "Please enter the price",
+  "priceScopeValidation": "price must be between 1 and 200 dollars",
+  "requireCountInStock": "Please enter the countInStock",
+  "countInStockValidation": "Count in stock must be an integer between 1 and 255",
+  "requireURL": "Please enter the URL",
+  "validationURL": "The image must be a valid URL, please try again",
+  "validationID": "Invalid book ID"
+
+}
+

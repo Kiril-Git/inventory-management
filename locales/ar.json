@@ -1,0 +1,14 @@
+{
+  "bookNotFound": "الكتاب غير موجود",
+  "deletedSuccessfully": "تم حذفه بنجاح",
+  "updatedSuccessfully": "تم تحديثه بنجاح",
+  "requireBookName": "يرجى إدخال اسم الكتاب",
+  "bookNameLengthValidation": "يجب أن يتراوح اسم الكتاب بين 5 و50 حرفًا",
+  "requirePrice": "يرجى إدخال السعر",
+  "priceScopeValidation": "يجب أن يتراوح السعر بين 1 و200 دولار",
+  "requireCountInStock": "يرجى إدخال الكمية المتوفرة",
+  "countInStockValidation": "يجب أن تكون الكمية المتوفرة عددًا صحيحًا بين 1 و255",
+  "requireURL": "يرجى إدخال رابط الصورة",
+  "validationURL": "يجب أن يكون رابط الصورة صالحًا، يرجى المحاولة مرة أخرى",
+  "validationID": "معرّف الكتاب غير صالح"
+}

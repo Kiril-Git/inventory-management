@@ -1,0 +1,14 @@
+{
+  "bookNotFound": "Книгата не е намерена",
+  "deletedSuccessfully": "е изтрита успешно",
+  "updatedSuccessfully": "е актуализирана успешно",
+  "requireBookName": "Моля, въведете името на книгата",
+  "bookNameLengthValidation": "Името на книгата трябва да е между 5 и 50 символа",
+  "requirePrice": "Моля, въведете цената",
+  "priceScopeValidation": "Цената трябва да е между 1 и 200 долара",
+  "requireCountInStock": "Моля, въведете наличното количество",
+  "countInStockValidation": "Наличното количество трябва да е цяло число между 1 и 255",
+  "requireURL": "Моля, въведете URL адреса",
+  "validationURL": "URL адресът на изображението трябва да е валиден. Моля, опитайте отново",
+  "validationID": "Невалидно ID на книга"
+}
